@@ -1,0 +1,237 @@
+body{
+    width: 100%;
+    height: 100%;
+    background: #4776E6; 
+    background: -webkit-linear-gradient(to right, #8E54E9, #4776E6);
+    background: linear-gradient(to right, #8E54E9, #4776E6); 
+    
+
+}
+@media (min-width: 992px) {
+
+h3{
+    padding: 5px;
+    width: 10px;
+    height: 10px;
+}
+#cent {   
+    
+    color: black;
+    margin-top: 20px;
+    font-family:  cursive;
+    text-shadow: 2px 2px 6px bisque;
+
+    display: flex;  
+    justify-content: center;
+    font-size: 40px;
+    
+    
+}
+.who {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#num1{
+    width: auto;
+    height: auto;
+    margin: 30px;
+    border: 5px black;
+    padding: 20px;
+    background-color: #D7DDE8;
+    font-size: x-large;
+    border: 5px solid black;
+    border-style: double;
+    
+}
+#num2 {
+    width: auto;
+    height: auto;
+    margin: 30px;
+    border: 5px black;
+    padding: 20px;
+    background-color: #D7DDE8;
+    font-size: x-large;
+    border: 5px solid black;
+    border-style: double;
+    
+
+}
+#num3 {
+    width: auto;
+    height: auto;
+    margin: 30px;
+    border: 5px black;
+    padding: 20px;
+    background-color:#D7DDE8;
+    font-size: x-large;
+    border: 5px solid black;
+    border-style: double;
+    font-weight: 500;
+    color: black;
+    
+}
+h4 {
+    margin-top: 1px;
+    margin-bottom: 20px;
+    background-color: white;
+    text-align: right;
+    border: 2px solid black; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h5{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+}
+@media (max-width: 767px){
+    h3{
+        padding: 5px;
+        width: 10px;
+        height: 10px;
+    }
+    #cent {   
+        
+        color: black;
+        margin-top: 20px;
+        font-family:  cursive;
+        text-shadow: 2px 2px 6px bisque;
+        display: flex;
+        justify-content: center;
+        font-size: 30px;
+        
+        
+    }
+    .who {
+        
+        
+    }
+    #num1{
+        width: auto;
+        height: auto;
+        margin: 30px;
+        border: 5px black;
+        padding: 20px;
+        background-color: #D7DDE8;
+        font-size: x-large;
+        border: 5px solid black;
+        border-style: double;    
+    }
+    #num2 {
+        width: auto;
+        margin: auto;
+        margin: 30px;
+        border: 5px black;
+        padding: 20px;
+        background-color: #D7DDE8;
+        font-size: x-large;
+        border: 5px solid black;
+        border-style: double;
+        
+    
+    }
+    #num3 {
+        width: auto;
+        height: auto;
+        margin: 30px;
+        border: 5px black;
+        padding: 20px;
+        background-color:#D7DDE8;
+        font-size: x-large;
+        border: 5px solid black;
+        border-style: double;
+        font-weight: 500;
+        color: black;
+        
+    }
+    h4 {
+        margin-top: 1px;
+        margin-bottom: 20px;
+        background-color: white;
+        text-align: right;
+        border: 2px solid black; 
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    h5{
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+}
+@media (min-width: 768px ) and (max-width: 991px) {
+    h3{
+        padding: 5px;
+        width: 10px;
+        height: 10px;
+    }
+    #cent {   
+        
+        color: black;
+        margin-top: 20px;
+        font-family:  cursive;
+        text-shadow: 2px 2px 6px bisque;
+        display: flex;
+        justify-content: center;
+        font-size: 30px;
+        
+        
+    }
+    .who {
+       
+        
+    } 
+    #num1{
+        width: auto;
+        height: auto;
+        margin: 30px;
+        border: 5px black;
+        padding: 20px;
+        background-color: #D7DDE8;
+        font-size: x-large;
+        border: 5px solid black;
+        border-style: double;    
+    }
+    #num2 {
+        width: auto;
+        margin: auto;
+        margin: 30px;
+        border: 5px black;
+        padding: 20px;
+        background-color: #D7DDE8;
+        font-size: x-large;
+        border: 5px solid black;
+        border-style: double;
+       
+        
+    
+    }
+   
+    #num3 {
+        box-sizing: border-box;
+        display: block;
+        width: auto;
+        height: auto;
+        margin: 30px;
+        border: 5px black;
+        padding: 20px;
+        background-color:#D7DDE8;
+        font-size: x-large;
+        border: 5px solid black;
+        border-style: double;
+        font-weight: 500;
+        color: black;
+        align-self: flex-end;
+    }
+    h4 {
+        margin-top: 1px;
+        margin-bottom: 20px;
+        background-color: white;
+        text-align: right;
+        border: 2px solid black; 
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    h5{
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+}
